@@ -8,7 +8,7 @@ const About = () => {
             
         }}>
             <h4>Version 2.0</h4>
-            <Link to="/" style ={{fontSize:'12px'}} >Head Back</Link>
+            <Link to="/ToDos" style ={{fontSize:'12px'}} >Head Back</Link>
         </div>
     )
 }

@@ -49,7 +49,7 @@ function App() {
         <Header />
 
         
-        <Route path ='/' exact render={(props)=> (
+        <Route path ='/ToDos' exact render={(props)=> (
           <>
             <Modal handleAdd={handleAdd} />
             {list.length > 0 ? <Todos list = {list} handleChange ={handleChange} /> : 
