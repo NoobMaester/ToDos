@@ -12,7 +12,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 .container{
-  max-width: 600px;
+  max-width: 480px;
   margin: 20px auto;
   border: 3px solid rgb(50, 50, 50);
   border-radius: 6px;
